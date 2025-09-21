@@ -136,4 +136,5 @@ async def setup_panel(ctx):
 
 
 # === LANCEMENT ===
-bot.run("MTQxNjk1MDQ1Mzc0NDQzOTQxNg.Gys5Ri.C7BIQUpTsQusz6aBNfBlNvzjHtv-j0sUtqAamQ")  # ⚠️ garde ton token secret
+
+bot.run("token du bot")  # ⚠️ garde ton token secret
